@@ -1,0 +1,83 @@
+ [
+      {
+        "id": 1,
+        "company": "Redmi",
+        "model": "Redmi Note 10",
+        "price": 199.99,
+        "launchDate": "2023-01-15",
+        "stockLeft": 50
+      },
+      {
+        "id": 2,
+        "company": "Samsung",
+        "model": "Samsung Galaxy S21",
+        "price": 799.99,
+        "launchDate": "2022-05-10",
+        "stockLeft": 25
+      },
+      {
+        "id": 3,
+        "company": "Apple",
+        "model": "iPhone 13",
+        "price": 999.99,
+        "launchDate": "2022-09-14",
+        "stockLeft": 10
+      },
+      {
+        "id": 4,
+        "company": "OnePlus",
+        "model": "OnePlus 9 Pro",
+        "price": 749.99,
+        "launchDate": "2022-03-30",
+        "stockLeft": 15
+      },
+      {
+        "id": 5,
+        "company": "Google",
+        "model": "Google Pixel 6",
+        "price": 699.99,
+        "launchDate": "2022-10-20",
+        "stockLeft": 30
+      },
+      {
+        "id": 6,
+        "company": "Xiaomi",
+        "model": "Xiaomi Mi 11",
+        "price": 549.99,
+        "launchDate": "2022-01-05",
+        "stockLeft": 5
+      },
+      {
+        "id": 7,
+        "company": "Huawei",
+        "model": "Huawei P50",
+        "price": 599.99,
+        "launchDate": "2022-04-18",
+        "stockLeft": 12
+      },
+      {
+        "id": 8,
+        "company": "Sony",
+        "model": "Sony Xperia 5 III",
+        "price": 699.99,
+        "launchDate": "2022-06-25",
+        "stockLeft": 8
+      },
+      {
+        "id": 9,
+        "company": "LG",
+        "model": "LG Velvet",
+        "price": 449.99,
+        "launchDate": "2021-11-02",
+        "stockLeft": 3
+      },
+      {
+        "id": 10,
+        "company": "Motorola",
+        "model": "Motorola Moto G Power",
+        "price": 249.99,
+        "launchDate": "2021-08-15",
+        "stockLeft": 20
+      }
+    ]
+  
